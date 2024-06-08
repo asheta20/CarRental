@@ -1,11 +1,9 @@
 # WebDesignProject overview
 
 Log in credentials for database 
-1) Admin -> admin@gmail.com pass: Admin123@
-2) Mike Oxlong -> mike@gmail.com pass: Mikeoxlong1@
-3) Andi Sheta -> andisheta@yahoo.com pass: Andi123@
-4) Ben Dover -> ben@gmail.com pass: Ben1234@
-5) John cena -> cena@hotmail.com pass: John123@
+1) Admin -> admin@gmail.com pass: missfortune123.
+2) Tech Support -> TechSupport@yahoo.com pass: Password123.
+3) Normal User -> john.doe@example.com pass: Password123.
 
 Extentions used:
 Chat Gpt if it counts,
